@@ -57,6 +57,17 @@ Untuk desainnya saya mengubah tema default menjadi Data Produk Game.Untuk atribu
 
 **Add**
 
-![Deskripsi Video](https://github.com/Aze33/TP4DPBO2425C2/blob/main/Dokumentasi/DokumentasiAdd.mp4)
+![Add](https://github.com/user-attachments/assets/3831bff9-e98a-4049-acd8-9897b2afd417)
+
+**Update**
+
+![Update](https://github.com/user-attachments/assets/2819df05-9913-43fc-bb7b-715c27719dab)
+
+**Delete**
+
+![Delete](https://github.com/user-attachments/assets/decf6e41-8a22-4d79-aacb-d365c37274af)
+
+
+
 
 
