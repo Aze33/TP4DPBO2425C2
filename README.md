@@ -27,7 +27,7 @@ Untuk desainnya saya mengubah tema default menjadi Data Produk Game.Untuk atribu
 * **`JRadioButton` & `ButtonGroup`**: Tiga `JRadioButton` ("Semua Umur", "Remaja", "Dewasa") yang dikelompokkan oleh sebuah `ButtonGroup` untuk memastikan hanya satu pilihan rating usia yang bisa aktif.
 * **`JButton`**: Tombol-tombol interaktif: "Add/Update", "Delete", dan "Cancel".
 * **`JTable` (`productTable`)**: Komponen utama untuk menampilkan semua data game dalam bentuk tabel yang rapi.
-* **`JMenuBar`, `JMenu`, `JRadioButtonMenuItem`**: Membentuk menu bar di bagian atas jendela yang menyediakan fungsionalitas filter alternatif.
+
 
 **Action Listener**
 
